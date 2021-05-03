@@ -12,7 +12,9 @@ $name = 'mario';
 //echo "Hey, my name is $name";
 
 //echo "the ninja screamed \"whaaa\"";
-echo 'the ninja screamed "whaaa"';
+//echo 'the ninja screamed "whaaa"';
+
+echo $name[0];
 
 ?>
 
