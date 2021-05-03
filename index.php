@@ -17,7 +17,8 @@ $name = 'mario';
 //echo $name[0];
 
 //echo strlen($name);
-echo strtoupper($name);
+//echo strtoupper($name);
+echo strtolower($name);
 
 ?>
 
