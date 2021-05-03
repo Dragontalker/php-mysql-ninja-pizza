@@ -1,6 +1,9 @@
 <?php
 
 $name = 'Yoshi';
+$age = 30;
+
+$name = 'Mario';
 
 ?>
 
@@ -15,7 +18,9 @@ $name = 'Yoshi';
 </head>
 
 <body>
-  <h1><?php echo $name; ?></h1>
+  <h1>User Profile Page</h1>
+  <div><?php echo $name; ?></div>
+  <div><?php echo $age; ?></div>
 </body>
 
 </html>
