@@ -7,9 +7,11 @@ echo $stringOne . $stringTwo;
 
 $name = 'mario';
 
-echo 'Hey, my name is ' . $name;
+//echo 'Hey, my name is ' . $name;
 
-echo "Hey, my name is $name";
+//echo "Hey, my name is $name";
+
+echo "the ninja screamed \"whaaa\"";
 
 ?>
 
