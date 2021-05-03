@@ -5,6 +5,12 @@ $stringTwo = 'mario123@thenetninja.co.uk';
 
 echo $stringOne . $stringTwo;
 
+$name = 'mario';
+
+echo 'Hey, my name is ' . $name;
+
+echo "Hey, my name is $name";
+
 ?>
 
 <!DOCTYPE html>
