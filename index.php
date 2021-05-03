@@ -14,7 +14,9 @@ $name = 'mario';
 //echo "the ninja screamed \"whaaa\"";
 //echo 'the ninja screamed "whaaa"';
 
-echo $name[0];
+//echo $name[0];
+
+echo strlen($name);
 
 ?>
 
