@@ -1,11 +1,9 @@
 <?php
 
-define('NAME', 'Yoshi');
+$stringOne = 'my email is ';
+$stringTwo = 'mario123@thenetninja.co.uk';
 
-//$name = 'Yoshi';
-$age = 30;
-
-//$name = 'Mario';
+echo $stringOne . $stringTwo;
 
 ?>
 
@@ -20,9 +18,7 @@ $age = 30;
 </head>
 
 <body>
-  <h1>User Profile Page</h1>
-  <div><?php echo NAME; ?></div>
-  <div><?php echo $age; ?></div>
+
 </body>
 
 </html>
