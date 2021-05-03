@@ -1,9 +1,11 @@
 <?php
 
-$name = 'Yoshi';
+define('NAME', 'Yoshi');
+
+//$name = 'Yoshi';
 $age = 30;
 
-$name = 'Mario';
+//$name = 'Mario';
 
 ?>
 
@@ -19,7 +21,7 @@ $name = 'Mario';
 
 <body>
   <h1>User Profile Page</h1>
-  <div><?php echo $name; ?></div>
+  <div><?php echo NAME; ?></div>
   <div><?php echo $age; ?></div>
 </body>
 
