@@ -3,7 +3,7 @@
 $stringOne = 'my email is ';
 $stringTwo = 'mario123@thenetninja.co.uk';
 
-echo $stringOne . $stringTwo;
+//echo $stringOne . $stringTwo;
 
 $name = 'mario';
 
@@ -11,7 +11,8 @@ $name = 'mario';
 
 //echo "Hey, my name is $name";
 
-echo "the ninja screamed \"whaaa\"";
+//echo "the ninja screamed \"whaaa\"";
+echo 'the ninja screamed "whaaa"';
 
 ?>
 
