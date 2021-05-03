@@ -18,7 +18,8 @@ $name = 'mario';
 
 //echo strlen($name);
 //echo strtoupper($name);
-echo strtolower($name);
+//echo strtolower($name);
+echo str_replace('m', 'w', $name);
 
 ?>
 
